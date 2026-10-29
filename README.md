@@ -1,8 +1,6 @@
 
 # 🍕 Pizza Pal
 
-**Live Demo:** 👉 [https://divyanshi910.github.io/YourPizzaPal-/](https://divyanshi910.github.io/YourPizzaPal-/)
-
 **Pizza Pal** is a modular, JavaScript-based pizza ordering app with Razorpay payment simulation. It follows the MVC (Model-View-Controller) architecture and uses dynamic rendering for a smooth, interactive experience.
 
 ---
