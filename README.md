@@ -118,4 +118,4 @@ This project is licensed under the [MIT License](LICENSE)
 
 ---
 
-> Made with 🍕 and ❤️ by [Divyanshi Verma](https://github.com/divyanshi910)
+
